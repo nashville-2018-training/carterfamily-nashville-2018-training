@@ -1,0 +1,14 @@
+uuid: d11af57a-7ff8-43cd-a1e3-4adc17857e5c
+name: carterfamily-nashville-2018-training
+mail: david.needham@getpantheon.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
